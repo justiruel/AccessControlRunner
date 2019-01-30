@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\bin\Release\netcoreapp2.1\win7-x86\hostpolicy.dll
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\bin\Release\netcoreapp2.1\win7-x86\hostfxr.dll
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\bin\Release\netcoreapp2.1\win7-x86\AccessControlRunner.exe
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\bin\Release\netcoreapp2.1\win7-x86\AccessControlRunner.deps.json
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\bin\Release\netcoreapp2.1\win7-x86\AccessControlRunner.runtimeconfig.json
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\bin\Release\netcoreapp2.1\win7-x86\AccessControlRunner.runtimeconfig.dev.json
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\bin\Release\netcoreapp2.1\win7-x86\AccessControlRunner.dll
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\bin\Release\netcoreapp2.1\win7-x86\AccessControlRunner.pdb
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\obj\Release\netcoreapp2.1\win7-x86\AccessControlRunner.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\obj\Release\netcoreapp2.1\win7-x86\AccessControlRunner.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\obj\Release\netcoreapp2.1\win7-x86\AccessControlRunner.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\obj\Release\netcoreapp2.1\win7-x86\AccessControlRunner.AssemblyInfo.cs
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\obj\Release\netcoreapp2.1\win7-x86\AccessControlRunner.dll
+C:\Users\user\source\repos\AccessControlRunner\AccessControlRunner\obj\Release\netcoreapp2.1\win7-x86\AccessControlRunner.pdb
